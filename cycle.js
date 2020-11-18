@@ -23,7 +23,7 @@ function checkPrimeNum(num) {
 //console.log(checkPrimeNum(12));
 
 function findeRoot(num) {
-
+    
 }
 
 function calcFactorial(num) {
